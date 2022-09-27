@@ -1,5 +1,5 @@
 - job:
-    name: first-job
+    name: first-job-A
     description: |
       This job is managed by JJB and will be overwritten.
       Do not edit this job through the web.
