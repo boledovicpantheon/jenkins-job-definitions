@@ -1,8 +1,7 @@
 - job:
-    name: first-job-A
+    name: test-2
     description: |
-      This job is managed by JJB and will be overwritten.
-      Do not edit this job through the web.
+      Testing if Git poll recognise changes in repo.
     project-type: freestyle
     concurrent: true
     node: master
