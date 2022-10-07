@@ -18,8 +18,3 @@
           set -xe
           echo "SUCCESS!"
           true
-
-sag
-a
-ha
-sh
