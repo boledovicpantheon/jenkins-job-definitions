@@ -4,7 +4,7 @@
       Testing if Git poll recognise changes in repo.
     project-type: freestyle
     concurrent: true
-    node: master
+    node: jjb-agent
 
     wrappers:
       - timeout:
